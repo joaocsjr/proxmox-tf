@@ -1,8 +1,8 @@
-Sure! Here's a description you can use for your GitHub repository:
+
 
 ---
 
-## Terraform Proxmox Modules
+## Terraform Proxmox Code
 
 This repository contains Terraform modules for managing and provisioning resources on Proxmox Virtual Environment (PVE). These modules simplify the process of creating and managing virtual machines (VMs) and containers on Proxmox, leveraging the power of infrastructure as code.
 
@@ -39,18 +39,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to adjust any part of this description to better fit your specific project details!
-
-Fonte: conversa com o Copilot, 09/09/2024
-(1) GitHub - binary-braids/terraform-proxmox: Terraform modules for .... https://github.com/binary-braids/terraform-proxmox.
-(2) GitHub - lucidsolns/terraform-vm-proxmox: A Terraform module to create .... https://github.com/lucidsolns/terraform-vm-proxmox.
-(3) Terraform provider plugin for Proxmox - GitHub. https://github.com/Telmate/terraform-provider-proxmox.
-(4) Terraform Registry. https://registry.terraform.io/providers/Telmate/proxmox/latest/docs/guides/developer.
-(5) undefined. https://github.com/terraform-docs/scoop-bucket.
-(6) undefined. https://github.com/terraform-docs/terraform-docs/releases/download/v0.17.0/terraform-docs-v0.17.0-.
-(7) undefined. https://share.lucidsolutions.co.nz/pub/debian/bookworm/virtiofsd-1.8.0/%29.
-(8) How to use Terraform and Proxmox to Deploy a VM - Spacelift. https://spacelift.io/blog/terraform-proxmox-provider.
-(9) Proxmox Provider - Terraform Registry. https://registry.terraform.io/providers/Telmate/proxmox/latest/docs.
-(10) Proxmox + Terraform - Smig. https://smig.tech/blog/tech/proxmox-terraform/.
-(11) Proxmox with Terraform - Dan's Tech Journey. https://danstechjourney.com/proxmox-with-terraform.
-(12) undefined. https://proxmox-server01.example.com:8006/api2/json.
